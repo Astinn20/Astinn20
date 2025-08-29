@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Astinn20</h1>
+<h1 align="center">Hi 👋, I'm Morales, Justin(Astin)</h1>
 <h3 align="center"> Bachelor of Science in Computer Science/ 4th Year Student</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*gqO3slLmGb4mUeje.gif")
   >
