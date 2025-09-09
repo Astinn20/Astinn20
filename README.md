@@ -5,7 +5,7 @@
   >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astinn20&label=Profile%20views&color=0e75b6&style=flat" alt="astinn20" /> </p>
 
-- 🌱 I’m currently learning **CSharp**
+- 🌱 
 
 - 💬 Ask me about **???**
 
